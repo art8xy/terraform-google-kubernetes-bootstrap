@@ -1,0 +1,3 @@
+PyYAML==6.0.3
+google-auth==2.57.1
+google-cloud-container==2.66.0
